@@ -8,6 +8,7 @@ int main() {
     }
     cout << i << "\n";
   }   
+  cout<<"For loop performed";
   return 0;
 }
 
